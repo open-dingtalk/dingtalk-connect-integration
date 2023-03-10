@@ -1,0 +1,4 @@
+dingtalk:
+  appKey: 'dingp49vczmeychvdmis'
+  appSecret: 'SG-8DODfeUY30BzS58YOmBhzOtCaDfT021S3CX2c_AuskVT2eY3ghmOMxTFzotaS'
+  endpoint: https://pre-api.dingtalk.com
