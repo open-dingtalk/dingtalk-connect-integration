@@ -1,9 +1,2 @@
 dingtalk:
-  #  appKey: 'dingp49vczmeychvdmis'
-  #  appSecret: 'SG-8DODfeUY30BzS58YOmBhzOtCaDfT021S3CX2c_AuskVT2eY3ghmOMxTFzotaS'
-  endpoint: https://pre-api.dingtalk.com
-  aesKey: uUaHS1MZqIXYtdLkcZINlIKwiRIGS93HaG0bhETarzH
-  encryptToken: oIa2c544THZjJoJFXLuteWvecezthmH4rVG
-  suiteSecret: Gv-dL4FKfWWW8K4TbusKrM3N2PUkciM2JAyNNZbV7NZplFBhvfMizbP8YAXXsCdG
-  suiteKey: suite06iqshcpdf8udkaf
-  suiteTicket: ZtbKIC0k4ZT1Nb4Ja2VtEi6fNw06YBaMQKOCrSa9xoHt0AB9DBJlxajd0qzE2JoTHP8lNTwhtKcL4QjsAqzPWt
+  endpoint: https://api.dingtalk.com
